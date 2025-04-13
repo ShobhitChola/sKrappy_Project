@@ -30,5 +30,5 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ShobhitChola/sKrappy_Project
+git clone https://github.com/ShobhitChola/sKrapy
 cd skrapy
